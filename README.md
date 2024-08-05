@@ -54,8 +54,7 @@
 
 ###
 
-<h3>Check Out This Album</h3>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6Yw4204wbgmpsGTzjXBhYD?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p>Check out this album: <a href="https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD" target="_blank">Your Favorite Album</a></p>
 
 ###
 
