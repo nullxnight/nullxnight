@@ -54,8 +54,6 @@
 
 ###
 
-<p>Check out this album: <a href="https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD" target="_blank">Your Favorite Album</a></p>
-
 ###
 
 <img src="https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
