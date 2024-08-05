@@ -40,7 +40,7 @@
 ###
 
 <div align="left">
-  <a href="0xshivaay.github.io" target="_blank">
+  <a href="https://0xshivaay.github.io" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
   <a href="https://tryhackme.com/p/0xshivaay" target="_blank">
@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
