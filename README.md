@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I love hacking/development/blockchain stuff!!</p>
+<p align="center">I love hacking[CYBER SECURITY STUFF]!!</p>
 
 ###
 
